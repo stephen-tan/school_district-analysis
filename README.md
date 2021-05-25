@@ -6,6 +6,7 @@ The purpose of the analysis was to get a summary of high school performance base
 ## School District Results
 - **How is the district summary affected?** <br/>
 The entire district has a total of 39,170 students. THS has a total student body of 1,635 students (9th-12th grade), with 461 of those students being 9th graders. Percentage-wise, those THS 9th graders account for 1.18% of all students in the district and 28.20% of all students at THS. District averages for math and reading scores changed from 81.88% and 78.96% to 78.93% and 81.86%, respectively. Math scores decreased while reading scores increased.
+![Uncleaned Per School Summary](Resources/per_school_summary_uncleaned.png)
 
 - **How is the school summary affected?** <br/>
 THS' summary was affected for both math and reading scores. If the 9th grade scores were not cleaned from the dataset, then the percentage of overall students that passed math and reading was 65.08%. After cleaning the data to remove 9th graders, the overall percentage of students that passed both math and reading increased to 90.63%.
