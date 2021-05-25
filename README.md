@@ -10,6 +10,7 @@ The entire district has a total of 39,170 students. THS has a total student body
 
 - **How is the school summary affected?** <br/>
 THS' summary was affected for both math and reading scores. If the 9th grade scores were not cleaned from the dataset, then the percentage of overall students that passed math and reading was 65.08%. After cleaning the data to remove 9th graders, the overall percentage of students that passed both math and reading increased to 90.63%.
+![Cleaned Per School Summary](Resources/per_school_summary_cleaned.png)
 
 - **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?** <br/>
 Out of 15 schools in the district, THS was ranked 8th before replacement of falsified scores. After the scores were omitted, THS ranked 2nd in the district.
