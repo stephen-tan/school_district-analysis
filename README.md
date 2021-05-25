@@ -14,6 +14,7 @@ THS' summary was affected for both math and reading scores. If the 9th grade sco
 
 - **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?** <br/>
 Out of 15 schools in the district, THS was ranked 8th before replacement of falsified scores. After the scores were omitted, THS ranked 2nd in the district.
+![Disctrict Summary](Resources/district_summary.png)
 
 - **How does replacing the ninth-grade scores affect the following:** <br/>
 
